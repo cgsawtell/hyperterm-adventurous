@@ -1,9 +1,9 @@
 {
   "name": "hyperterm-adventurous",
-  "version": "1.1.2",
+  "version": "0.0.2",
   "description": "Hyperterm theme based on the Atom theme adventurous",
   "main": "index.js",
-  "repository": "https://github.com/mdo/hyperterm-atom-dark.git",
+  "repository": "https://github.com/cgsawtell/hyperterm-adventurous",
   "keywords": [
     "hyperterm",
     "hyperterm-theme",
