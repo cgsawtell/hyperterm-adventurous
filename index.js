@@ -45,7 +45,10 @@ exports.decorateConfig = config => {
         border-style: solid;
       }
       .tab_tab:first-of-type {
-        border-width: 0;
+        border-left-width: 0;
+      }
+      .tab_tab.tab_active:first-of-type {
+        border-left-width: 0;
       }
       .tab_tab:hover {
         color: rgba(157, 165, 180, 0.6);
@@ -64,13 +67,16 @@ exports.decorateConfig = config => {
         z-index: 1;
         position: absolute;
         top: 0;
-        left: -1px;
+        left: 0;
         bottom: -1px;
         right: 0;
         height: inherit;
         border: 1px solid #181a1f;
         border-bottom-color: ${backgroundColor};
         border-top: 0;
+      }
+      .tab_tab.tab_active:first-of-type::before {
+        border-left-width: 0;
       }
       .tab_tab.tab_active:last-of-type::before {
         border-right-width: 0;
