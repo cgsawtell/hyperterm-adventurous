@@ -1,4 +1,5 @@
 # Adventurous for HyperTerm
+![Adventure Time!](http://img1.wikia.nocookie.net/__cb20120811190505/adventuretimewithfinnandjake/images/2/24/Ci_banner_2k12mar20_adventuretime.jpeg)
 
 [HyperTerm](https://hyperterm.org) theme based on [Atom's Adventurous Syntax theme](https://github.com/philpl/Adventurous-Syntax). Forked from @mdo's [Atom One Dark for HyperTerm](https://github.com/mdo/hyperterm-atom-dark) and modified by @cgsawtell.
 
