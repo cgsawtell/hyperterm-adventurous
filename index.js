@@ -1,8 +1,8 @@
 
 const backgroundColor = '#191B1F'
 const foregroundColor = '#fcfefb'
-const cursorColor = foregroundColor
-const borderColor = backgroundColor
+const cursorColor = '#0066ff'
+const borderColor = '#404449'
 
 const colors = {
   black       : backgroundColor,
