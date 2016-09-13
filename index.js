@@ -9,7 +9,7 @@ const colors = {
   red         : '#D3422E', // red
   green       : '#4BAE16', // green
   yellow      : '#F5BB12', // yellow
-  blue        : '##0066ff', // blue
+  blue        : '#0066ff', // blue
   magenta     : '#de347a', // pink
   cyan        : '#8cfff8', // cyan
   white       : '#BFD7DB', // light gray
