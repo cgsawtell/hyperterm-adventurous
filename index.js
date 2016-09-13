@@ -1,26 +1,26 @@
 
-const backgroundColor = '#282c34'
-const foregroundColor = '#abb2bf'
+const backgroundColor = '#191B1F'
+const foregroundColor = '#fcfefb'
 const cursorColor = foregroundColor
 const borderColor = backgroundColor
 
 const colors = {
   black       : backgroundColor,
-  red         : '#e06c75', // red
-  green       : '#98c379', // green
-  yellow      : '#d19a66', // yellow
-  blue        : '#56b6c2', // blue
-  magenta     : '#c678dd', // pink
-  cyan        : '#56b6c2', // cyan
-  white       : '#d0d0d0', // light gray
-  lightBlack  : '#808080', // medium gray
-  lightRed    : '#e06c75', // red
-  lightGreen  : '#98c379', // green
-  lightYellow : '#d19a66', // yellow
-  lightBlue   : '#56b6c2', // blue
-  lightMagenta: '#c678dd', // pink
-  lightCyan   : '#56b6c2', // cyan
-  colorCubes  : '#ffffff', // white
+  red         : '#D3422E', // red
+  green       : '#4BAE16', // green
+  yellow      : '#F5BB12', // yellow
+  blue        : '##0066ff', // blue
+  magenta     : '#de347a', // pink
+  cyan        : '#8cfff8', // cyan
+  white       : '#BFD7DB', // light gray
+  lightBlack  : '#97a0a0', // medium gray
+  lightRed    : '#f25a55', // red
+  lightGreen  : '#a2e185', // green
+  lightYellow : '#FFC620', // yellow
+  lightBlue   : '#00a0e2', // blue
+  lightMagenta: '#fc6aca', // pink
+  lightCyan   : '#7fd6fa', // cyan
+  colorCubes  : '#fcfefb', // white
   grayscale   : foregroundColor
 }
 
