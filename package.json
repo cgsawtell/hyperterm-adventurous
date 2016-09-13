@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-adventurous",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Hyperterm theme based on the Atom theme adventurous",
   "main": "index.js",
   "repository": "https://github.com/cgsawtell/hyperterm-adventurous",
