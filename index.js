@@ -41,9 +41,7 @@ exports.decorateConfig = config => {
       ${config.css || ''}
       .tab_tab {
         font-weight: 500;
-        color: rgba(157, 165, 180, 0.6);
         border-width: 0 0 0 1px;
-        border-image: linear-gradient(#21252b, #181a1f 1em) 0 0 0 1 stretch;
         border-style: solid;
       }
       .tab_tab:first-of-type {
@@ -70,8 +68,6 @@ exports.decorateConfig = config => {
         bottom: -1px;
         right: 0;
         height: inherit;
-        background-image: linear-gradient(rgba(255, 255, 255, 0.02), rgba(255, 255, 255, 0));
-        box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.06);
         border: 1px solid #181a1f;
         border-bottom-color: ${backgroundColor};
         border-top: 0;
