@@ -39,15 +39,6 @@ exports.decorateConfig = config => {
     `,
     css: `
       ${config.css || ''}
-      .header_header {
-        top: 0;
-        right: 0;
-        left: 0;
-      }
-      .tabs_list {
-        background-color: #21252b !important;
-        border-bottom-color: #181a1f !important;
-      }
       .tab_tab {
         font-weight: 500;
         color: rgba(157, 165, 180, 0.6);
@@ -62,20 +53,6 @@ exports.decorateConfig = config => {
         color: rgba(157, 165, 180, 0.6);
         transition: none;
       }
-      .tab_tab::after {
-        content: "";
-        position: absolute;
-        pointer-events: none;
-        top: 0;
-        bottom: -1px;
-        left: 0;
-        width: 2px;
-        height: inherit;
-        background: #528bff;
-        opacity: 0;
-        transition: opacity .16s;
-        z-index: 1;
-      }
       .tabs_title,
       .tab_tab.tab_active {
         font-weight: 500;
@@ -83,10 +60,6 @@ exports.decorateConfig = config => {
       }
       .tab_tab.tab_active {
         background-color: ${backgroundColor};
-      }
-      .tab_tab.tab_active,
-      .tab_tab.tab_active + .tab_tab {
-        border-image: linear-gradient(transparent, transparent) 0 0 0 1 stretch;
       }
       .tab_tab.tab_active::before {
         content: "";
