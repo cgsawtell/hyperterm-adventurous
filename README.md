@@ -2,8 +2,8 @@
 
 [HyperTerm](https://hyperterm.org) theme based on [Atom's Adventurous Syntax theme](https://github.com/philpl/Adventurous-Syntax). Forked from @mdo's [Atom One Dark for HyperTerm](https://github.com/mdo/hyperterm-atom-dark) and modified by @cgsawtell.
 
-![Screenshot at start](https://cloud.githubusercontent.com/assets/98681/16899205/f644411e-4baf-11e6-851a-930070779867.png)
-![Screenshot with tabs](https://cloud.githubusercontent.com/assets/98681/16899206/f644c080-4baf-11e6-890d-fd5c628c7991.png)
+![Screenshot at start](https://cloud.githubusercontent.com/assets/2442052/18469130/03b5d582-79fb-11e6-8fba-3ecf9586084d.png)
+![Screenshot with tabs](https://cloud.githubusercontent.com/assets/2442052/18469129/03b52dee-79fb-11e6-997f-cb7966c78776.png)
 
 ### Install
 
