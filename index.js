@@ -35,6 +35,7 @@ exports.decorateConfig = config => {
       ${config.termCSS || ''}
       .cursor-node {
         border-left-width: 2px;
+        mix-blend-mode: screen;
       }
     `,
     css: `
